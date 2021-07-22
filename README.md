@@ -1,6 +1,6 @@
 # Open Stage Control template for Bitwig
-A modified version of the template provided by Jurgen in his DrivenByMoss OSC extension.
-You can use any device that has google chrome, to remotely control Bitwig studio.
+A modified and restyled version of the template provided by Jurgen in his DrivenByMoss OSC extension.
+You can use any device that has a web browser, to remotely control Bitwig studio.
 On an iPad I recommend using an app called FullScreen Browser for a full screen experience
 
 ## Dependencies
@@ -12,8 +12,8 @@ An Bitwig extension that communicates with the Bitwig  api to send and receive O
 ## Setup - Bitwig
 ![Bitwig settings](img/setup_bitwig.png)
 
-## Setup - Open Stage Controle
-![Open Stage control settings](img/setup_osc.png)
+## Setup - Open Stage Control
+![Open Stage control settings](img/setup_osc.png) v1.9.11
 
 ## Setup - IAC Drive (Mac)
 ![Mac Audio/Midi IAC driver settings](img/setup_iac.png)
