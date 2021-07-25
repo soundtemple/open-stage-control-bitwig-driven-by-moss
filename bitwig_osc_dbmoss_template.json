@@ -17159,9 +17159,9 @@
       },
       {
         "type": "tab",
-        "id": "layer_tab",
+        "id": "keyboard_tab",
         "linkId": "",
-        "label": "LAYER",
+        "label": "KEYBOARD",
         "css": "",
         "default": "",
         "value": "",
