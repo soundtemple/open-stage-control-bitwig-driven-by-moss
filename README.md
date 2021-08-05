@@ -20,7 +20,13 @@ An Bitwig extension that communicates with the Bitwig  api to send and receive O
 
 ## Views
 ### Mixer view
-![iPad mixer view](img/view_ipad_mixer.png)
+![iPad mixer view](img/bw_mixer.png)
 
 ### Device view
-![iPad device view](img/view_ipad_device.png)
+![iPad device view](img/bw_device.png)
+
+### Browser view
+![iPad device view](img/bw_browser.png)
+
+### Keyboard view
+![iPad device view](img/bw_keyboard.png)
