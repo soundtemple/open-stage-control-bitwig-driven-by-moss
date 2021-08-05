@@ -20699,7 +20699,7 @@
                     "value": "",
                     "default": "",
                     "linkId": "",
-                    "address": "auto",
+                    "address": "/vkb_midi/1/note",
                     "preArgs": "",
                     "typeTags": "",
                     "decimals": 2,
